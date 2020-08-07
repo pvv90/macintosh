@@ -1,0 +1,31 @@
+@media(max-width:1196px){
+
+.header_content{
+    margin-left: 30px;
+}
+.img_logo{
+    margin-left: 20px;
+}
+.need_name {
+    
+    min-width: 292px;
+}
+.input_need_title {
+    
+    width: 593px;
+}
+
+.textarea_comment {
+    
+    width: 593px;
+    
+}
+}
+
+
+
+
+
+
+
+
